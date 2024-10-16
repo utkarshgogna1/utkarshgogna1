@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Utkarsh Gogna 👋
 
-<!--
-**utkarshgogna1/utkarshgogna1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Computer Science Master's student at Northeastern University with a strong interest in machine learning, software development, and AI/ML solutions. I enjoy working on innovative projects that blend my expertise in programming and data science.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 **Education**:  
+  - **Master of Science in Computer Science**  
+    Northeastern University, Boston, MA (Expected December 2025)  
+  - **Bachelor of Technology in Computer Engineering**  
+    Vishwakarma Institute of Technology, Pune, India (June 2021)  
+- 💼 **Current Role**:  
+  - **Teaching Assistant – Machine Learning**  
+    Northeastern University, Fall 2024  (Current)
+- 👨‍💻 **Previous Experience**:  
+  - **Systems Engineer - Digital Data AI/ML at Infosys**  
+    (Feb 2022 – Jul 2023)  
+  - **Application Developer Intern at Sagitec Solutions**  
+    (Feb 2021 – Jun 2021)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Languages**: C, C++, C#, JavaScript, TypeScript, Python, HTML, CSS, PHP, Java, SQL  
+- **Frameworks/Tools**: Spring Boot, React.js, AWS, Microservices, Android Studio, Git, Maven, Postman, Jupyter Notebook  
+- **Specializations**: Machine Learning, Computer Vision, NLP, Generative AI, REST APIs, Agile/Scrum methodologies  
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/utkarsh-gogna)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/utkarshgogna)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:gogna.u@northeastern.edu)
+
+## 📈 GitHub Stats
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarshgogna1&show_icons=true&theme=radical)
+
+⭐️ Feel free to explore my projects and reach out for collaboration!
