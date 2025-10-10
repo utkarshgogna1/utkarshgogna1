@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Master's student
 ## 🚀 About Me
 - 🎓 **Education**:  
   - **Master of Science in Computer Science**  
-    Northeastern University, Boston, MA (Expected December 2025)  
+    Northeastern University, Boston, MA (May 2025)  
   - **Bachelor of Technology in Computer Engineering**  
     Vishwakarma Institute of Technology, Pune, India (June 2021)  
 - 💼 **Current Role**:  
