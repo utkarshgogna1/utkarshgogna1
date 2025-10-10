@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Master's student
     Vishwakarma Institute of Technology, Pune, India (June 2021)  
 - 💼 **Current Role**:  
   - **Teaching Assistant – Machine Learning**  
-    Northeastern University, Fall 2024  (Current)
+    Northeastern University, (Sept 2024 - May 2025)
 - 👨‍💻 **Previous Experience**:  
   - **Systems Engineer - Digital Data AI/ML at Infosys**  
     (Feb 2022 – Jul 2023)  
