@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Master's student
   - **Bachelor of Technology in Computer Engineering**  
     Vishwakarma Institute of Technology, Pune, India (June 2021)  
 - 💼 **Current Role**:  
-  - **Teaching Assistant – Machine Learning**  
-    Northeastern University, (Sept 2024 - May 2025)
+  - **Software Developer**  
+    CGI Incorp, (July2025 - Present)
 - 👨‍💻 **Previous Experience**:  
   - **Systems Engineer - Digital Data AI/ML at Infosys**  
     (Feb 2022 – Jul 2023)  
